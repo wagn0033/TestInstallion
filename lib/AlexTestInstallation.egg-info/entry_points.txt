@@ -1,0 +1,2 @@
+[console_scripts]
+testcommand = bin.testcommand:main
