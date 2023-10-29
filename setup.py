@@ -10,12 +10,13 @@ setup(
     ],
     #find_packages(where='./lib'),
     package_dir={
+        "": "./bin",
         "Boreas": "./lib/Boreas",
     },
-    py_modules=["bin/testcommand"],
+    py_modules=["testcommand"],
     entry_points={
         'console_scripts': [
-            'testcommand=bin.testcommand:main',
+            'testcommand=testcommand:main',
         ]
     }
 )

@@ -1,9 +1,0 @@
-LICENSE
-pyproject.toml
-setup.py
-./lib/AlexTestInstallation.egg-info/PKG-INFO
-./lib/AlexTestInstallation.egg-info/SOURCES.txt
-./lib/AlexTestInstallation.egg-info/dependency_links.txt
-./lib/AlexTestInstallation.egg-info/top_level.txt
-./lib/Boreas/TestModule.py
-./lib/Boreas/__init__.py
